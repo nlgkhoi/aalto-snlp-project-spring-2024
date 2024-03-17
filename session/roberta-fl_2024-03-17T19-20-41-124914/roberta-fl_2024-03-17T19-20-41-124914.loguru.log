@@ -1,0 +1,43 @@
+2024-03-17 19:20:45.691 | INFO     | __main__:<module>:2 - SESSION_NAME='roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:45.707 | INFO     | __main__:<module>:3 - TRAIN_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/train_2024.csv'
+2024-03-17 19:20:45.715 | INFO     | __main__:<module>:4 - TEST_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/test_2024.csv'
+2024-03-17 19:20:45.726 | INFO     | __main__:<module>:5 - CURRENT_SESSION_DIR_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/session/roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:45.731 | INFO     | __main__:<module>:6 - LABEL_LIST=['toxic', 'non-toxic']
+2024-03-17 19:20:59.750 | INFO     | __main__:<module>:2 - SESSION_NAME='roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:59.750 | INFO     | __main__:<module>:2 - SESSION_NAME='roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:59.752 | INFO     | __main__:<module>:3 - TRAIN_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/train_2024.csv'
+2024-03-17 19:20:59.752 | INFO     | __main__:<module>:3 - TRAIN_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/train_2024.csv'
+2024-03-17 19:20:59.753 | INFO     | __main__:<module>:4 - VAL_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/dev_2024.csv'
+2024-03-17 19:20:59.753 | INFO     | __main__:<module>:4 - VAL_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/dev_2024.csv'
+2024-03-17 19:20:59.754 | INFO     | __main__:<module>:5 - TEST_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/test_2024.csv'
+2024-03-17 19:20:59.754 | INFO     | __main__:<module>:5 - TEST_DATASET_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/test_2024.csv'
+2024-03-17 19:20:59.754 | INFO     | __main__:<module>:6 - CURRENT_SESSION_DIR_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/session/roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:59.754 | INFO     | __main__:<module>:6 - CURRENT_SESSION_DIR_PATH='/Users/lgk1910/Library/CloudStorage/OneDrive-AaltoUniversity/Learning2/Statistical NLP/Assignment/aalto-snlp-project-spring-2024/session/roberta-fl_2024-03-17T19-20-41-124914'
+2024-03-17 19:20:59.756 | INFO     | __main__:<module>:7 - LABEL_LIST=['toxic', 'non-toxic']
+2024-03-17 19:20:59.756 | INFO     | __main__:<module>:7 - LABEL_LIST=['toxic', 'non-toxic']
+2024-03-17 19:21:15.861 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:21:15.861 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:21:15.863 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:21:15.863 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:21:15.864 | INFO     | __main__:<module>:18 - GPU_IS_AVAILABLE=False
+2024-03-17 19:21:15.864 | INFO     | __main__:<module>:18 - GPU_IS_AVAILABLE=False
+2024-03-17 19:21:15.865 | INFO     | __main__:<module>:19 - GPU_COUNT=0
+2024-03-17 19:21:15.865 | INFO     | __main__:<module>:19 - GPU_COUNT=0
+2024-03-17 19:21:15.865 | CRITICAL | __main__:<module>:21 - GPU and CUDA are not available !
+2024-03-17 19:21:15.865 | CRITICAL | __main__:<module>:21 - GPU and CUDA are not available !
+2024-03-17 19:22:09.053 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:22:09.053 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:22:09.056 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:22:09.056 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:22:53.185 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:22:53.185 | INFO     | __main__:<module>:1 - Checking consistency...
+2024-03-17 19:22:53.188 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:22:53.188 | SUCCESS  | __main__:<module>:13 - Datasets are reachable
+2024-03-17 19:22:53.267 | SUCCESS  | __main__:<module>:19 - MPS is available
+2024-03-17 19:22:53.267 | SUCCESS  | __main__:<module>:19 - MPS is available
+2024-03-17 19:24:35.276 | INFO     | __main__:load_roberta_model:62 - transformers.RobertaTokenizer : roberta-base
+2024-03-17 19:24:35.276 | INFO     | __main__:load_roberta_model:62 - transformers.RobertaTokenizer : roberta-base
+2024-03-17 19:24:35.278 | INFO     | __main__:load_roberta_model:63 - transformers.AutoModel : roberta-base
+2024-03-17 19:24:35.278 | INFO     | __main__:load_roberta_model:63 - transformers.AutoModel : roberta-base
+2024-03-17 19:25:06.363 | SUCCESS  | __main__:<module>:3 - Model loaded !
+2024-03-17 19:25:06.363 | SUCCESS  | __main__:<module>:3 - Model loaded !
